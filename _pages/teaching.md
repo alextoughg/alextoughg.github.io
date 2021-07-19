@@ -6,6 +6,10 @@ description:
 nav: true
 ---
 
+*Beginner Spanish I*, University of Pittsburgh, Summer 2021
+
+*Intermediate Spanish II*, University of Pittsburgh, Spring 2021
+
 *Intermediate Spanish I*, University of Pittsburgh, Fall 2020
 
 *Spanish for Beginners*, University of Toronto, 2019-2020
