@@ -3,4 +3,4 @@ layout: post
 date: 2021-07-19 15:59:00-0400
 inline: true
 --- 
-Check out my call for papers for [ontological turns in representations of ruins in Latin American cultural production](https://www.cfplist.com/nemla/Home/S/19395) at [NeMLA 53](http://www.buffalo.edu/nemla/convention.html)! Don't hesitate to reach out to me if you have any questions. Please also check out the call for papers of ['Collective practices of care during the pandemic'](https://www.cfplist.com/nemla/Home/S/19389) by my colleagues at NYU and Universidade Federal do Estado do Rio de Janeiro, Cynthia Melendez and Sandra Bonomini!
+Check out my call for papers regarding [Living Ruins in Latin American Literature, Film and Media](https://www.cfplist.com/nemla/Home/S/19395) at [NeMLA 53](http://www.buffalo.edu/nemla/convention.html)! Don't hesitate to reach out to me if you have any questions. 
